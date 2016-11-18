@@ -1,0 +1,9 @@
+Incident(P1) No: {{no}}
+Incident Title:  {{title}}
+Incident Date: {{incidentdate}}
+Status: {{status}}
+Affected Systems: {{systems}}
+Created by: {{createdby}}
+Assignee: {{assignee}}
+Comment: 
+  {{content}}
