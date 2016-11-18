@@ -1,0 +1,9 @@
+P1 INC Tix No: {{no}}
+INC Title:  {{title}}
+INC Date: {{incidentdate}}
+Status: {{status}}
+Affected: {{systems}}
+Created by: {{createdby}}
+Assignee: {{assignee}}
+Comments: 
+  {{content}}
