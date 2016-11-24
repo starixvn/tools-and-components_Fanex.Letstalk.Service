@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace Fanex.Letstalk.Service.Models
+{
+    public class LetstalkModel
+    {
+        public int Id { get; set; }
+
+        public string Comment { get; set; }
+<<<<<<< HEAD
+
+        public string TargetName { get; set; }
+=======
+>>>>>>> d0101646c80026683be0c7a23a7a0bfd1aca7f6b
+    }
+}

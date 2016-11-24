@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace Fanex.Letstalk.Service.Models
+{
+    public class IssueViewModel
+    {
+        public IssueModel Issue { get; set; }
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> d0101646c80026683be0c7a23a7a0bfd1aca7f6b
+    }
+}
