@@ -70,12 +70,16 @@
     <Content Include="App_Data\public.snk">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="IMSP1TixUpdatesTarget\target.config" />
     <None Include="P1TestingTarget\target.config" />
     <None Include="TestingTarget2\target.config" />
     <None Include="TestingTarget\target.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="IMSP1TixUpdatesTarget\exclamation.png" />
+    <Content Include="IMSP1TixUpdatesTarget\template-mail.html" />
+    <Content Include="IMSP1TixUpdatesTarget\template-push.txt" />
     <Content Include="P1TestingTarget\exclamation.png" />
     <Content Include="P1TestingTarget\template-mail.html" />
     <Content Include="P1TestingTarget\template-push.txt" />
