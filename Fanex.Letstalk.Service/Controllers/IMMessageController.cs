@@ -1,11 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Fanex.Letstalk.Service.Services;
 using System.Web.Http;
-using System.Text;
-using Fanex.Letstalk.Service.Core;
 using Fanex.Letstalk.Service.Models;
-using System.IO;
+using Fanex.Letstalk.Service.Services;
 
 namespace Fanex.Letstalk.Service.Controllers
 {

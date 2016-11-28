@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Hosting;
+﻿using System.Web.Hosting;
 using System.Web.Http;
-using System.Web.Mvc;
 using Fanex.Letstalk.Service.Models;
 using RSACryptoPad;
 
@@ -26,7 +21,5 @@ namespace Fanex.Letstalk.Service.Controllers
             var encryptionThread = new EncryptionThread();
             return encryptionThread.DecryptString(text, KeySize, keyPairPath);
         }
-
-
     }
 }
