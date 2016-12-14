@@ -52,7 +52,7 @@ namespace LetstalkAPIConsole
 
             //return;
 
-            var password = Utilities.Encrypt("chuotnhat");
+            var password = Utilities.Encrypt("!Q@W#E$R%Tasdfg");
             Console.WriteLine(password);
             //return;
 
